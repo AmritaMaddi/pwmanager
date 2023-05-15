@@ -1,4 +1,4 @@
-import MatchGame from './Components/MatchGame'
+import MatchGame from './components/MatchGame'
 
 import './App.css'
 
